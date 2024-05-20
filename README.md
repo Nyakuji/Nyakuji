@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Improving my skills in backend development by building projects using Python and MySQL. I'm also exploring full-stack development with JavaScript frameworks.<br><br>👯 I’m looking to collaborate on<br>Open source projects related to web development, particularly those involving backend technologies like Django, Flask, or Node.js.<br><br>🤝 I’m looking for help with<br>Advanced concepts in database optimization and deployment of scalable web applications.<br><br>🌱 I’m currently learning<br>- Advanced Python programming<br>- JavaScript frameworks such as React and Node.js<br>- Database management with MySQL and MongoDB<br><br>💬 Ask me about<br>My journey in software engineering, tips for learning programming languages, or advice on starting with backend development.<br><br>⚡ Fun fact<br>I love solving logic puzzles and often spend my weekends hiking and exploring nature trails.
+🔭🔭 I’m currently working on<br>Improving my skills in backend development by building projects using Python and MySQL. I'm also exploring full-stack development with JavaScript frameworks.<br><br>👯 I’m looking to collaborate on<br>Open source projects related to web development, particularly those involving backend technologies like Django, Flask, or Node.js.<br><br>🤝 I’m looking for help with<br>Advanced concepts in database optimization and deployment of scalable web applications.<br><br>🌱 I’m currently learning<br>- Advanced Python programming<br>- JavaScript frameworks such as React and Node.js<br>- Database management with MySQL and MongoDB<br><br>💬 Ask me about<br>My journey in software engineering, tips for learning programming languages, or advice on starting with backend development.<br><br>⚡ Fun fact<br>I love solving logic puzzles and often spend my weekends hiking and exploring nature trails.
 
 
 ## 🌐 Socials:
@@ -13,13 +13,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyakuji&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nyakuji&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nyakuji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nyakuji&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nyakuji&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
